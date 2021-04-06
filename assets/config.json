@@ -1,0 +1,105 @@
+{
+  "name": "Name",
+  "surname": "Surname",
+  "sex": "M",
+  "birthdate": "dd/MM/yyyy",
+  "nationality": "Italy",
+  "telephone": "+XX 0001234567",
+  "mobile": "+XX 0001234567",
+  "address": "My Address",
+  "email": "your@email.com",
+  "website": "https://your.website.com",
+  "instant_messaging": [
+    {
+      "service": "Twitter",
+      "username": "@mytag"
+    },
+    {
+      "service": "LinkedIn",
+      "username": "myname"
+    }
+  ],
+  "current_position": "My Current Position",
+  "driving_licence": "B",
+  "mother_tongue": "Italian",
+  "communication_skills": [
+    "Skills line 1",
+    "Skills line 2"
+  ],
+  "managerial_skills": [
+    "Skills line 1",
+    "Skills line 2"
+  ],
+  "job_related_skills": [
+    "Skills line 1",
+    "Skills line 2"
+  ],
+  "it_skills": [
+    "Skills line 1",
+    "Skills line 2"
+  ],
+  "other_skills": [
+    "Skills line 1",
+    "Skills line 2"
+  ],
+  "work_experience": [
+    {
+      "date_start": "dd/MM/yyyy",
+      "date_end": "dd/MM/yyyy",
+      "name": "Position Name",
+      "employer": "Employer Name",
+      "locality": "Italy",
+      "desc": [
+        "Activity 1",
+        "Activity 2"
+      ],
+      "sector": "Business/Sector"
+    },
+    {
+      "date_start": "dd/MM/yyyy",
+      "date_end": "dd/MM/yyyy",
+      "name": "Position Name 2",
+      "employer": "Employer Name 2",
+      "locality": "Italy",
+      "desc": [
+        "Activity X",
+        "Activity Y"
+      ],
+      "sector": "Business/Sector 2"
+    }
+  ],
+  "education": [
+    {
+      "date_start": "dd/MM/yyyy",
+      "date_end": "dd/MM/yyyy",
+      "name": "Name of Degree",
+      "organization": "My University Name",
+      "locality": "Italy",
+      "EQF": "EQF/Level",
+      "desc": [
+        "Principal subjects covered",
+        "Skills acquired"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "French",
+      "lvl_listening": "B2",
+      "lvl_reading": "B2",
+      "lvl_spoken_int": "B2",
+      "lvl_spoken_prod": "B2",
+      "lvl_writing": "B2",
+      "certificate": "My Certificate - B2"
+    }
+  ],
+  "additional_info": [
+    {
+      "category": "Publications",
+      "content": [
+        "My First Publication, 2021",
+        "My Second Publication, 2021"
+      ]
+    }
+  ]
+}
